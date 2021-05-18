@@ -39,7 +39,7 @@ __Week 5:__ _Non-Competitive Pricing_
 
 __Week 6:__ _Non-Competitive Pricing_
 
-  - Lecture 9: [Vertical Restraints](https://github.com/brettgabriel89/360/blob/master/006-a.pdf) 
+  - [Vertical Restraints](https://github.com/brettgabriel89/360/blob/master/006-a.pdf) 
   
 __Week 7:__ _Collusion_
 
