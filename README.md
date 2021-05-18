@@ -13,7 +13,7 @@ Lecture slides are posted below.
 
 __Week 1:__ _Intro & Theory of the Firm_
 
-  - [Firms and Profit Maximization](https://github.com/brettgabriel89/360/blob/master/slides/001-a.pdf) 
+  - [Firms \& Profit Maximization](https://github.com/brettgabriel89/360/blob/master/slides/001-a.pdf) 
   
   - [Perfect Competition, Monopoly, Dominant Firm](https://github.com/brettgabriel89/360/blob/master/slides/001-b.pdf)
 
