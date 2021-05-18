@@ -13,8 +13,8 @@ Lecture slides are posted below.
 
 __Week 1:__ _Intro & Review_
 
-  - Lecture 1: [Firms and Profit Maximization](https://github.com/brettgabriel89/360/blob/master/L1.pdf) 
+  - Lecture 1: [Firms and Profit Maximization](https://github.com/brettgabriel89/360/blob/master/001-lecture_one.pdf) 
   
-
+  - Lecture 2: [Perfect Competition, Monopoly, Dominant Firm](https://github.com/brettgabriel89/360/blob/master/001-lecture_two.pdf)
 
 
